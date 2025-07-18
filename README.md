@@ -23,7 +23,6 @@ homework-llm-skt/
 │   ├── SKB_Settop_Box_User_Guide_2503.pdf
 │   └── ...
 ├── chroma_db/                     # 벡터 데이터베이스
-├── chroma_qa/                     # Q&A 벡터 저장소
 ├── csvsave.ipynb                  # 문서 처리 및 Q&A 생성 노트북
 ├── chatbot.ipynb                  # 챗봇 구현 노트북
 └── README.md
